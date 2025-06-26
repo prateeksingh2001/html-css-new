@@ -1,0 +1,44 @@
+/* css boiler plate
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+} */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+/* h1 -> tag 
+    # -> id
+    . -> class
+*/
+/*
+ #main{
+     width: 50%;
+    height: 50%; 
+    width: 100px;
+    height: 100px;
+    margin: 20px;  
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px; 
+    margin: 20px 5px 30px 10px; // -> top right bottom left 
+    margin: 20px 5px ; // ->top-bottom left-right 
+    background-color:black;
+} 
+*/
+
